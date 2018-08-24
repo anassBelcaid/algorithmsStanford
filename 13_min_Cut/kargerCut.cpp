@@ -53,7 +53,6 @@ kargerCut::kargerCut(const string  &filename)
   num_points=adj.size();
 
 
-  srand(time(0));
 }
 
 
